@@ -8,7 +8,7 @@ I am a **Third-year Computer Science Engineering student** with hands-on experie
 ---
 
 ## 🌐 Live Demo
-You can view the live website here: [https://YOUR_USERNAME.github.io/portfolio/](https://YOUR_USERNAME.github.io/portfolio/)
+You can view the live website here: https://github.com/charupa/Portfolio-website
 
 ---
 
